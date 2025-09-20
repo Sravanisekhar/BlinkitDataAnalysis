@@ -8,6 +8,9 @@ This repository contains a comprehensive data analysis project focused on sales 
 
 - **`blinkit_data.csv`**  
   The primary dataset containing information on products, outlets, and sales figures.
+  
+- **`Blinkit Analysis.pptx`**  
+  A presentation summarizing the problem statements,
 
 - **`blinkit_data_nalysis.ipynb`**  
   Jupyter Notebook containing the full data analysis pipeline:
